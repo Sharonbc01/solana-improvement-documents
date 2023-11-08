@@ -1,8 +1,8 @@
 ---
-simd: 'XXXX'
-title: Title of SIMD
+simd: '0075'
+title: Test SIMD
 authors:
-  - (fill in with names of authors)
+  - (Sharon Byrne-Cotter)
 category: Standard/Meta
 type: Core/Networking/Interface/Meta
 status: Draft
